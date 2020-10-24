@@ -23,7 +23,7 @@ import com.google.gson.JsonParser;
  * Spotify API (new-releases endpoint).
  */
 
-public class SpotifyAPI 
+public class SpotifyAPI
 {
 	public String accessToken;
 	
