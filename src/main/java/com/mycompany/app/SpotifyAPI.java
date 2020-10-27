@@ -25,7 +25,7 @@ import com.google.gson.JsonParser;
 
 public class SpotifyAPI
 {
-	public String accessToken;
+	private String accessToken;
 	
 	// This function returns the access token
 	public String getAccessToken() { return this.accessToken; }
