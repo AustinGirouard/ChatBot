@@ -1,5 +1,5 @@
 # ChatBot
-Created a java program incorporating RESTful Web services that creates a chat bot for a server channel. This bot displays information about the weather in a given city as well as new Spotify releases. The program pulls in and parses JSON-formatted information from an OpenWeatherMap API corresponding to the city as well as from a Client-Credential Spotify API endpoint for new releases and returns the information through the chat bot to the server channel.
+A java program incorporating RESTful Web services that creates a chat bot for a server channel. This bot displays information about the weather in a given city as well as new Spotify releases. The program pulls in and parses JSON-formatted information from an OpenWeatherMap API corresponding to the city as well as from a Client-Credential Spotify API endpoint for new releases and returns the information through the chat bot to the server channel.
 
 # How to Connect
 Navigate to https://webchat.freenode.net/ and connect to the server that the bot will connect to (#pirc-bot by default).
