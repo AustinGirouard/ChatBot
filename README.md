@@ -18,7 +18,7 @@ Say hi to the bot! It will greet you back.
 
 Type "weather" followed by a zipcode/city name to get the weather! Ex. **weather Richardson** or **weather 75080** 
 
-**NOTE:** *THIS ONLY WORKS FOR US ZIPCODES*
+**NOTE:** *THIS ONLY WORKS FOR UNITED STATES CITIES*
 
 Type "Spotify New Releases" followed by the number of releases to get a list of new spotify releases! Ex. **Spotify New Releases 5**
 
