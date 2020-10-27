@@ -4,6 +4,8 @@ A java program incorporating RESTful Web services that creates a chat bot for a 
 # How to Connect
 Navigate to https://webchat.freenode.net/ and connect to the server that the bot will connect to (#demobot by default).
 
+In order to use the Spotify New Releases command, the user must input their personal Spotify Client_ID and Client_Secret in the postRequest() function found in SpotifyAPI.java. Client identification can be found on https://developer.spotify.com/dashboard/login
+
 # Commands
 !commands  - Displays a list of commands currently available.
 
